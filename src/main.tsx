@@ -1,5 +1,4 @@
 import './index.css';
-import 'moment/dist/locale/hr';
 
 import { ChakraProvider } from '@chakra-ui/react';
 import React from 'react';
